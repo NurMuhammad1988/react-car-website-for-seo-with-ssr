@@ -125,16 +125,16 @@ const carData = [
     id: 8,
     brand: "Colorado",
     rating: 52,
-    carName: "Rolls Royce Colorado",
+    carName: "Rolls Royce Coloradooo",
     imgUrl: img08,
-    model: "Model 3",
+    model: "Model 7",
     price: 50,
-    speed: "20kmpl",
+    speed: "22kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " Dolorrrrrrrrrrrrrrrrrrrrrrrr labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },
 ];
 
