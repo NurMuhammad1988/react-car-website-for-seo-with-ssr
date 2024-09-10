@@ -82,7 +82,7 @@ const Header = () => {
                                     >
                                         <i className="ri-car-line"></i>
                                         <span>
-                                            onlain.uz <br /> hizmatlar
+                                            airbag.uz <br /> 
                                         </span>
                                     </Link>
                                 </h1>
@@ -123,6 +123,7 @@ const Header = () => {
                                 <Link to="/contact">
                                     <i className="ri-phone-line"></i> Request a call
                                 </Link>
+                                
                             </button>
                         </Col>
                     </Row>
